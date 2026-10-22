@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shashank Chaubey 👋
 
-<!--
-**shashank-chaubey/shashank-chaubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about building practical applications, exploring emerging technologies, and turning ideas into working products.
 
-Here are some ideas to get you started:
+I work with **React, Next.js, TypeScript, and backend technologies** to build full-stack applications. I'm also expanding my skills in **AI and LLM engineering**, with a focus on integrating AI into real-world software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- Building full-stack applications with modern web technologies.
+- Exploring AI-powered applications, LLMs, and Retrieval-Augmented Generation (RAG).
+- Strengthening my backend engineering, system design, and problem-solving skills.
+- Turning ideas into useful products and continuously learning through hands-on projects.
+
+### Tech Stack
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Java, Spring Boot, REST APIs
+- **Databases:** PostgreSQL
+- **AI & LLMs:** Generative AI, LLM applications, RAG — currently learning and building
+- **Tools & Platforms:** Git, GitHub, Docker, Vercel
+
+### Connect with me
+- GitHub: [@shashank-chaubey](https://github.com/shashank-chaubey)
+
+Always learning, building, and improving — one project at a time.
