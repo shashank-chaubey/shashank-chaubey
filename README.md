@@ -1,6 +1,6 @@
 # Hi, I'm Shashank Chaubey 👋
 
-I'm a software developer passionate about building practical applications, exploring emerging technologies, and turning ideas into working products.
+I'm an aspiring software developer passionate about building practical applications, exploring emerging technologies, and turning ideas into working products.
 
 I work with **React, Next.js, TypeScript, and backend technologies** to build full-stack applications. I'm also expanding my skills in **AI and LLM engineering**, with a focus on integrating AI into real-world software.
 
