@@ -118,13 +118,7 @@ I'm a software developer passionate about building useful applications, explorin
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-chaubey&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&color=70a5fd&line=bf91f3&point=ffffff" width="100%" alt="Contribution Activity" />
-
-</div>
 
 ---
 
