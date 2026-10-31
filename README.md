@@ -1,14 +1,17 @@
 
 <div align="center">
 
-# Hi, I'm Shashank Chaubey 👋
+# 👋 Hi, I'm Shashank Chaubey
 
-### Aspiring Software Developer | Full-Stack Development | AI & LLM Engineering
+### Software Developer · Full-Stack Development · AI & LLM Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Applications;Exploring+AI+%26+LLM+Engineering;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Applications;Exploring+AI+%26+LLM+Engineering;Turning+Ideas+Into+Products;Learning.+Building.+Improving." alt="Animated introduction" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=shashank-chaubey&style=flat-square&color=blue" alt="Profile views" />
+  <a href="https://github.com/shashank-chaubey">
+    <img src="https://komarev.com/ghpvc/?username=shashank-chaubey&style=flat-square&color=2563eb" alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software%20Engineering-0f766e?style=flat-square" alt="Current focus" />
 </p>
 
 </div>
@@ -17,70 +20,91 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Passionate about building practical applications and turning ideas into working products.
-- 🌐 Building full-stack applications using modern web technologies.
-- 🤖 Exploring Artificial Intelligence, LLMs, and Retrieval-Augmented Generation (RAG).
-- 🛠️ Strengthening my backend engineering, system design, and problem-solving skills.
-- 🚀 Learning by building projects and experimenting with new technologies.
+I'm a software developer passionate about building useful applications, exploring emerging technologies, and turning ideas into working products.
+
+- 💻 Building full-stack applications with modern web technologies.
+- 🤖 Exploring Generative AI, LLMs, and Retrieval-Augmented Generation (RAG).
+- ⚙️ Improving my backend engineering, API design, and system design skills.
+- 🚀 Learning through hands-on projects and practical experimentation.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack & Technologies
+
+<div align="center">
 
 ### 🎨 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js and Tailwind CSS" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js and Tailwind CSS" />
+
+<br/><br/>
 
 ### ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" alt="Java, Spring Boot, Node.js and Express" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" alt="Java, Spring Boot, Node.js and Express" />
 
-### 🗄️ Databases
+<br/><br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" alt="PostgreSQL, MySQL and Prisma" />
-</p>
+### 🗄️ Databases & ORM
 
-### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" alt="PostgreSQL, MySQL and Prisma" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="Python and PyTorch" />
-</p>
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/LLM%20Engineering-1F6FEB?style=for-the-badge" alt="LLM Engineering" />
-  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" alt="Retrieval-Augmented Generation" />
-</p>
+### 🤖 AI & LLM Engineering
 
-### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python and PyTorch" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" alt="Git, GitHub, Docker, Vercel, VS Code and Postman" />
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/LLM_Engineering-2563EB?style=for-the-badge&logoColor=white" alt="LLM Engineering" />
+<img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logoColor=white" alt="Retrieval-Augmented Generation" />
+
+<br/><br/>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman&theme=dark" alt="Git, GitHub, Docker, Vercel, VS Code and Postman" />
+
+</div>
 
 ---
 
 ## 🚀 What I'm Working On
 
-- Building full-stack applications with Next.js, React, and TypeScript.
-- Exploring LLM-powered applications and AI integration.
-- Learning backend architecture, APIs, and database design.
-- Improving my engineering skills through hands-on projects.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Full-Stack Development</h3>
+      Building modern web applications with Next.js, React, TypeScript, REST APIs, and PostgreSQL.
+    </td>
+    <td width="50%">
+      <h3>🤖 AI Engineering</h3>
+      Exploring LLM applications, Generative AI, RAG pipelines, and AI-powered software.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ Backend Engineering</h3>
+      Improving my knowledge of API design, databases, backend architecture, and system design.
+    </td>
+    <td width="50%">
+      <h3>💡 Building Products</h3>
+      Turning ideas into practical projects and learning through experimentation.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=shashank-chaubey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-chaubey&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-chaubey&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
 </div>
 
@@ -90,7 +114,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-chaubey&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-chaubey&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
@@ -100,14 +124,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shashank-chaubey/shashank-chaubey/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/shashank-chaubey/shashank-chaubey/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
 
 </div>
 
 ---
 
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -118,13 +141,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:sashankchaubey2002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-</div>
-
-
-<div align="center">
+<br/><br/>
 
 ### 💡 Always learning, building, and improving — one project at a time.
 
