@@ -103,16 +103,16 @@ I'm a software developer passionate about building useful applications, explorin
 
 <div align="center">
 
-<img
-  src="https://github-stats-extended.vercel.app/api?username=shashank-chaubey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  alt="GitHub Statistics"
-  width="49%"
-/>
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=shashank-chaubey&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-  width="41%"
-/>
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=shashank-chaubey&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="100%" alt="GitHub Statistics" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shashank-chaubey&layout=compact&theme=transparent&hide_border=true" width="100%" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -122,10 +122,9 @@ I'm a software developer passionate about building useful applications, explorin
 
 <div align="center">
 
-[![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=shashank-chaubey&theme=tokyo-night&hide_border=true&area=true)](https://github.com/shashank-chaubey)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-chaubey&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&color=70a5fd&line=bf91f3&point=ffffff" width="100%" alt="Contribution Activity" />
 
 </div>
-
 
 ---
 
