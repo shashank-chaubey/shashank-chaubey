@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a software developer passionate about building useful applications, exploring emerging technologies, and turning ideas into working products.
+I am an aspiring software developer passionate about building useful applications, exploring emerging technologies, and turning ideas into working products.
 
 - 💻 Building full-stack applications with modern web technologies.
 - 🤖 Exploring Generative AI, LLMs, and Retrieval-Augmented Generation (RAG).
