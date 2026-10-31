@@ -98,13 +98,21 @@ I'm a software developer passionate about building useful applications, explorin
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shashank-chaubey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-chaubey&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img
+  src="https://github-stats-extended.vercel.app/api?username=shashank-chaubey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  alt="GitHub Statistics"
+  width="49%"
+/>
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=shashank-chaubey&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+  width="41%"
+/>
 
 </div>
 
@@ -114,9 +122,10 @@ I'm a software developer passionate about building useful applications, explorin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-chaubey&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity" />
+[![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=shashank-chaubey&theme=tokyo-night&hide_border=true&area=true)](https://github.com/shashank-chaubey)
 
 </div>
+
 
 ---
 
